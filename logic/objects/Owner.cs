@@ -7,6 +7,7 @@ namespace logic.objects
         public string Phone { get; set; }
         public string? MailAddress { get; set; }
         public int Age { get; set; }
+        public Guid ID { get; } = Guid.NewGuid();
 
         public Owner(string firstName, string lastName, string phone, string? mailAddress, int age)
         {

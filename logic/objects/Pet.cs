@@ -6,6 +6,7 @@ namespace logic.objects
         public AnimalType Type { get; set; }
         public int Age { get; set; }
         public string? Description { get; set; }
+        public Guid ID { get; } = Guid.NewGuid();
 
         public Pet(string name, AnimalType type, int age, string? description = null)
         {

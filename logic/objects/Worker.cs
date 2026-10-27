@@ -9,7 +9,7 @@ namespace logic.objects
         public string MailAddress { get; set; }
         public int Age { get; set; }
         public int Experience { get; set; }
-        public Guid ID { get; set; } = Guid.NewGuid();
+        public Guid ID { get; } = Guid.NewGuid();
 
         public Worker(string firstName, string middleName, string lastName, string phone, string mailAddress, int age, int experience)
         {
