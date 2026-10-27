@@ -1,0 +1,14 @@
+D:\shemesfolder\vscodes\Pet-Care\bin\Debug\net10.0\Pet-Care.exe
+D:\shemesfolder\vscodes\Pet-Care\bin\Debug\net10.0\Pet-Care.deps.json
+D:\shemesfolder\vscodes\Pet-Care\bin\Debug\net10.0\Pet-Care.runtimeconfig.json
+D:\shemesfolder\vscodes\Pet-Care\bin\Debug\net10.0\Pet-Care.dll
+D:\shemesfolder\vscodes\Pet-Care\bin\Debug\net10.0\Pet-Care.pdb
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.GeneratedMSBuildEditorConfig.editorconfig
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.AssemblyInfoInputs.cache
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.AssemblyInfo.cs
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.csproj.CoreCompileInputs.cache
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.dll
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\refint\Pet-Care.dll
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.pdb
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\Pet-Care.genruntimeconfig.cache
+D:\shemesfolder\vscodes\Pet-Care\obj\Debug\net10.0\ref\Pet-Care.dll
